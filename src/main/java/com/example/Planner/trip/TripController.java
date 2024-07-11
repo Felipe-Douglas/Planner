@@ -16,7 +16,6 @@ import org.springframework.web.bind.annotation.RequestBody;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
-import com.example.Planner.participant.Participant;
 import com.example.Planner.participant.ParticipantData;
 import com.example.Planner.participant.ParticipantRequestDTO;
 import com.example.Planner.participant.ParticipantResponseDTO;
